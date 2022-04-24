@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiCrash-Bukkit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiCrash_Bukkit_jar</output-path>
+    <root id="archive" name="AntiCrash-Bukkit.jar">
+      <element id="module-output" name="AntiCrash-Bukkit" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Depends/Spigots/spigot-1.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Depends/Spigots/fox.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Depends/Spigots/spigot-1.7.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

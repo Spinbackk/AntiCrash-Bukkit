@@ -1,0 +1,9 @@
+Messages:
+  Prefix: '&8[&4AntiCrash&8] &r'
+  Reload-Config: '&aThe config has been reloaded.'
+  No-Permission: '&cNo permission.'
+  Chat-Crash: '&cNice try! You cannot crash.'
+  Sign-Crash: '&cNice try, do not even try to crash the server.'
+  Crash-With-Command: '&cNice try, do not even try to crash the server.'
+  Illegal-Items: '&cIllegal items were found on your inventory and deleted.'
+  Inventory-Crash: '&cYou have written an incorrect item name!'
